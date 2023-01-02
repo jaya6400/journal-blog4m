@@ -15,7 +15,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "react-scripts build"
+    "build": "npm run start"
   },
   "author": "Jaya Dubey",
   "license": "ISC",
