@@ -14,8 +14,7 @@
   "description": "my blog website",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npm run start"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jaya Dubey",
   "license": "ISC",
